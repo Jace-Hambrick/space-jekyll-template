@@ -1,5 +1,5 @@
 # Site settings
-title: Jace Hambrick
+title: Jace Hambrick - A Portfolio
 description: Aspiring Data Scientist
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
 url: "https://jace-hambrick.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
