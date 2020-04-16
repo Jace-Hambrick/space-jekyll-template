@@ -2,7 +2,7 @@
 title: Jace Hambrick
 description: Aspiring Data Scientist
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "https://jace-hambrick.github.io/space-jekyll-template" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://jace-hambrick.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: Jace Hambrick
@@ -31,18 +31,18 @@ links:
   section_1:
     - title: home
       key_trigger: 1
-      url: /
+      url: /space-jekyll-template/
     - title: my posts
-      url: /posts
+      url: /space-jekyll-template/posts
       key_trigger: 2
     - title: series
-      url: /series
+      url: /space-jekyll-template/series
       key_trigger: 3
     - title: tags
-      url: /tags
+      url: /space-jekyll-template/tags
       key_trigger: 4
     - title: about me
-      url: /about
+      url: /space-jekyll-template/about
       key_trigger: 5
   section_2:
     - title: github
