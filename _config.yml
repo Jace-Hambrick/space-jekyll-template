@@ -30,7 +30,8 @@ compress_html:
 links:
   section_1:
     - title: home
-      url: https://jace-hambrick.github.io/space-jekyll-template/
+      key_trigger: 1
+      url: /
     - title: my posts
       url: /posts
       key_trigger: 2
