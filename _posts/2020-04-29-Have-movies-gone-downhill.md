@@ -16,6 +16,6 @@ As a movie lover, it's been a Question of some concern to me. It seems to me tha
 Using a <a href="https://www.kaggle.com/danielgrijalvas/movies/data">Dataset</a> pulled from Kaggle, I took a deeper look at the Question. Ironically, the creator of said dataset made it for simallar reasons. After some data manipulation I was able to find something rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies.
 
 
-<img=https://i.imgur.com/SAHQ9QR.png>
+<img src="https://i.imgur.com/SAHQ9QR.png" alt="Average Movies Bar">
 
 
