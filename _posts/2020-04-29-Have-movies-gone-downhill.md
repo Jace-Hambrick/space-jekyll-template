@@ -24,12 +24,23 @@ Using a <a href="https://www.kaggle.com/danielgrijalvas/movies/data">Dataset</a>
 
 
 <img src="https://i.imgur.com/wts70E8.png" alt="dataset">
+<br>
+<q>Contains the columns <i>Budget, Company, Country,	Director, Genre, Gross Name, Rating, Released, Runtime, Score, Star, Votes, Writer, and Year</i></q>
 
 
-After sifting through the data it became apparent that it was pretty useable with only a few tweaks. To start I had to fix a rather simple problem that would affect my data at a later time. Inside the dataset there were two duplicate companies but with different names, Columbia Pictures Corporation and Columbia Pictures. After that I needed to slim down the dataset to have only what I needed to find my Answer.
+After sifting through the data it became apparent that it was pretty useable with only a few tweaks. To start I had to fix a rather simple problem that would affect my data at a later time. Inside the dataset there were two duplicate companies but with different names, <i>Columbia Pictures Corporation</i> and <i>Columbia Pictures</i>. After that I needed to slim down the dataset to have only what I needed to find my Answer.
 
 
 <img src="https://i.imgur.com/tS0uitC.png" alt="slim_set">
+
+
+With this new information I can get closer to the Answer, but with so many companies I would need to slim it down a bit more. After running a value count on company names it was easy to see which companies had been the most active. No suprise, I recognized all of them by name.
+
+
+
+<img src="https://i.imgur.com/rMfj8oy.png" alt="top10">
+
+
 
 
 
