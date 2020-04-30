@@ -41,10 +41,22 @@ With this new information I can get closer to the Answer, but with so many compa
 
 The next thing to do was to slim the data frame down to these top 10 companies and then average the scores of each company by year. And  after that pivot it so that the columns are the companies, the index is the years, and the average ratings are the values. The resulting dataframe is a easily readable set of average scores with a few NaN values. Unfortunately that can't be helped due to the datasets sample of 220 movies per year, not all companies had movies pulled from a specific year. And then we graphed it as a multiple line graph.
 
-<b>Warning:</b> The following image may incite madness in statistic majors.
-<img src="https://i.imgur.com/wK7VuPd.png" alt="top10graph">
+<b>Warning:</b><i> The following image may incite madness in mathmaticians.</i>
+<img src="https://i.imgur.com/xAUlNyS.png" alt="top10graph">
 
 
+While not the most comprehensive graph. You can take one major thing away from it. Over the past thirty years, with some minor exceptions, the top ten movie companies have stayed almost consistently at 6 or just slightly above. This got me curious, so I slimmed it down to only the top three to get a better view.
+
+<img src="https://i.imgur.com/5eh6sP0.png" alt="top10graph">
+
+The result was conclusive. The top 3 movie companies have gotten more consistent, but are still stuck at just about 6. So let's look at our question.
+
+<b>Have Movies Gotten Worse In Recent Years?</b>
+
+
+Well we can now say that no, they have not gotten worse, at least not for the top movie studios. But that doesn't really answer my question. So the next thing to look at is every company, and to do so I look back at the Graph_Data dataset. Everything I need is here but I not exclusive from the rest of the data. To fix this I need to make another funtion, this time to find out the average ratings of every movie provided, by the year it was released.
+
+It 
 
 After some data manipulation I was able to find something rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies.
 
