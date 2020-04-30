@@ -45,8 +45,8 @@ The next thing to do was to slim the data frame down to these top 10 companies a
 <img src="https://i.imgur.com/xAUlNyS.png" alt="top10graph">
 
 
-<div class="video-container">
-    <iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" height="315" width="560" allowfullscreen="" frameborder="0" align="middle">
+<div class="video-container" align="middle">
+    <iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" allowfullscreen="" frameborder="0" align="middle">
     </iframe>
 </div>
 
