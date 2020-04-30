@@ -33,13 +33,16 @@ After sifting through the data it became apparent that it was pretty useable wit
 <img src="https://i.imgur.com/tS0uitC.png" alt="slim_set">
 
 
-With this new information I can get closer to the Answer, but with so many companies I would need to slim it down a bit more. After running a value count on company names it was easy to see which companies had been the most active. No suprise, I recognized all of them by name.
-
+With this new information I can get closer to the Answer, but with so many companies I would need to slim it down a bit more. After running a value count on company names it was easy to see which companies had been the most active. No suprise, I recognized all of them by name. The next step was to make a small <i>for</i> loop that pulled each individual year used in the data and assign it to <i>i</i> to use at a later date.
 
 
 <img src="https://i.imgur.com/rMfj8oy.png" alt="top10">
 
 
+The next thing to do was to slim the data frame down to these top 10 companies and then average the scores of each company by year. And  after that pivot it so that the columns are the companies, the index is the years, and the average ratings are the values. The resulting dataframe is a easily readable set of average scores with a few NaN values. Unfortunately that can't be helped due to the datasets sample of 220 movies per year, not all companies had movies pulled from a specific year. And then we graphed it as a multiple line graph.
+
+<b>Warning:</b> The following image may incite madness in statistic majors.
+<img src="https://i.imgur.com/wK7VuPd.png" alt="top10graph">
 
 
 
