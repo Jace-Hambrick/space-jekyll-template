@@ -14,7 +14,7 @@ categories:
 
 As a movie lover, it's been a Question of some concern to me. It seems to me that while special effects and technology have advanced, movies have gotten worse. The Question, have movies gotten worse in recent years? Why? Are larger movie companies simply not making the cut anymore?
 
-So let's keep that Question nice and close: <h1>Have Movies Gotten Worse In Recent Years?</h1>
+So let's keep that Question nice and close: <b>Have Movies Gotten Worse In Recent Years?</b>
 
 Using a <a href="https://www.kaggle.com/danielgrijalvas/movies/data">Dataset</a> pulled from Kaggle, I took a deeper look at the Question. Ironically, the creator of said dataset made it for simallar reasons. I started by importing the dataset and taking a good look at what was contained, specifically at what I would need in order to find my Answer.
 
