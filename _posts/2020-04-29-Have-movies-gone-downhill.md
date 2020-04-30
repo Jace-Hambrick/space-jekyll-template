@@ -46,7 +46,7 @@ The next thing to do was to slim the data frame down to these top 10 companies a
 
 
 
-<iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" allowfullscreen="" frameborder="0" align="middle"></iframe>
+<iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" height="300" width="500" allowfullscreen="" frameborder="0" align="middle"></iframe>
 
 
 
