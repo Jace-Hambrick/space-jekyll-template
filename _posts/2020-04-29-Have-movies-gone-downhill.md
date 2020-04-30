@@ -44,6 +44,11 @@ The next thing to do was to slim the data frame down to these top 10 companies a
 <b>Warning:</b><i> The following image may incite madness in mathmaticians.</i>
 <img src="https://i.imgur.com/xAUlNyS.png" alt="top10graph">
 
+<div class="video-container">
+    <iframe src="https://github.com/Jace-Hambrick/Graphs/blob/master/plotfig.html" height="315" width="560" allowfullscreen="" frameborder="0">
+    </iframe>
+</div>
+
 
 While not the most comprehensive graph. You can take one major thing away from it. Over the past thirty years, with some minor exceptions, the top ten movie companies have stayed almost consistently at 6 or just slightly above. This got me curious, so I slimmed it down to only the top three to get a better view.
 
