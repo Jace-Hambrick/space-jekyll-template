@@ -42,12 +42,10 @@ With this new information I can get closer to the Answer, but with so many compa
 The next thing to do was to slim the data frame down to these top 10 companies and then average the scores of each company by year. And  after that pivot it so that the columns are the companies, the index is the years, and the average ratings are the values. The resulting dataframe is a easily readable set of average scores with a few NaN values. Unfortunately that can't be helped due to the datasets sample of 220 movies per year, not all companies had movies pulled from a specific year. And then we graphed it as a multiple line graph.
 
 <b>Warning:</b><i> The following image may incite madness in mathmaticians.</i>
-<img src="https://i.imgur.com/xAUlNyS.png" alt="top10graph">
 
-
-
+<div>
 <iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" frameborder="0" allowfullscreen></iframe>
-
+</div>
 
 
 While not the most comprehensive graph. You can take one major thing away from it. Over the past thirty years, with some minor exceptions, the top ten movie companies have stayed almost consistently at 6 or just slightly above. This got me curious, so I slimmed it down to only the top three to get a better view.
