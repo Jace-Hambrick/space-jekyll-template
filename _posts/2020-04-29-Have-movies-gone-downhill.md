@@ -8,7 +8,7 @@ categories:
 - Λ Lambda Projects
 ---
 
-<img src="https://i.imgur.com/BiD8eV2.jpg" alt="movie theater">
+<img src="https://i.imgur.com/rTHZ9cY.png" alt="movie theater">
 
 As a movie lover, it's been a Question of some concern to me. It seems to me that while special effects and technology have advanced, movies have gotten worse. The Question, have movies gotten worse in recent years? Why? Are larger movie companies simply not making the cut anymore?
 <br>
@@ -21,7 +21,7 @@ So let's keep that Question nice and close:
 Using a <a href="https://www.kaggle.com/danielgrijalvas/movies/data">Dataset</a> pulled from Kaggle, I took a deeper look at the Question. Ironically, the creator of said dataset made it for simallar reasons. I started by importing the dataset and taking a good look at what was contained, specifically at what I would need in order to find my Answer.
 
 
-<img src="https://i.imgur.com/wts70E8.png" alt="dataset">
+<img src="https://i.imgur.com/wXJmpTL.png" alt="dataset">
 <p>Contains the columns <q><i>Budget, Company, Country,	Director, Genre, Gross Name, Rating, Released, Runtime, Score, Star, Votes, Writer, and Year</i></q></p>
 <br>
 <br>
@@ -34,7 +34,7 @@ After sifting through the data it became apparent that it was pretty useable wit
 With this new information I can get closer to the Answer, but with so many companies I would need to slim it down a bit more. After running a value count on company names it was easy to see which companies had been the most active. No suprise, I recognized all of them by name. The next step was to make a small <i>for</i> loop that pulled each individual year used in the data and assign it to <i>i</i> to use at a later date.
 
 
-<img src="https://i.imgur.com/rMfj8oy.png" alt="top10">
+<img src="https://i.imgur.com/2IMu3jP.png" alt="top10">
 
 
 The next thing to do was to slim the data frame down to these top 10 companies and then average the scores of each company by year. And  after that pivot it so that the columns are the companies, the index is the years, and the average ratings are the values. The resulting dataframe is a easily readable set of average scores with a few NaN values, due to the datasets sample of 220 movies per year, not all companies had movies pulled from a specific year. And then we graphed it as a multiple line graph.
