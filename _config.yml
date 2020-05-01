@@ -58,8 +58,8 @@ links:
 
 # projects in header index
 projects:
- # - name: fluany
-    #url: https://github.com/fluany/fluany
+ name: Jace-Hambrick
+    url: https://github.com/Jace-Hambrick
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
