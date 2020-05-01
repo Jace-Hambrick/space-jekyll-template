@@ -8,8 +8,6 @@ categories:
 - Learn Jekyll 
 ---
 
-## Are Movies Going Downhill?
-
 <img src="https://i.imgur.com/BiD8eV2.jpg" alt="movie theater">
 
 As a movie lover, it's been a Question of some concern to me. It seems to me that while special effects and technology have advanced, movies have gotten worse. The Question, have movies gotten worse in recent years? Why? Are larger movie companies simply not making the cut anymore?
