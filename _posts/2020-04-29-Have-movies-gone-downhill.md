@@ -5,7 +5,7 @@ tags:
 - mongodb
 description: ''
 categories:
-- Learn Jekyll 
+- Λ Lambda Projects
 ---
 
 <img src="https://i.imgur.com/BiD8eV2.jpg" alt="movie theater">
