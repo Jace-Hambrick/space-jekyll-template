@@ -44,7 +44,7 @@ The next thing to do was to slim the data frame down to these top 10 companies a
 <b>Warning:</b><i> The following graph may incite madness in mathmaticians.</i>
 
 <div>
-<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" frameborder="1" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -62,6 +62,10 @@ Well we can now say that no, they have not gotten worse, at least not for the to
 Taking a crosstab, or comparing two seperate columns of the dataset against eachother, of the Scores and Years. Using this new dataset I was able to look at the average ratings of every year. And the result was rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies as seen in the two charts below.
 
 
-<img src="https://i.imgur.com/qjppwf9.png" alt="Average Movies Bar">
+<img src="https://i.imgur.com/69k3YW4.png" alt="Average Movies Bar">
 
+Well that answers the Question. But <b>who</b> is making the better movies, and what movies <i>are</i> the better movies. Another question for us to answer, and a rather simple one at that. With a quick bit of exploring I was able to put together a new chart for your enjoyment. Thank you for reading!
 
+<div>
+<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig2.html" frameborder="0" allowfullscreen></iframe>
+</div>
