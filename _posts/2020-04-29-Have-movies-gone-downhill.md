@@ -8,7 +8,7 @@ categories:
 - Λ Lambda Projects
 ---
 
-<img src="https://i.imgur.com/rTHZ9cY.png" alt="movie theater">
+<img src="https://i.imgur.com/a79WjUN.jpg" alt="movie theater">
 
 As a movie lover, it's been a Question of some concern to me. It seems to me that while special effects and technology have advanced, movies have gotten worse. The Question, have movies gotten worse in recent years? Why? Are larger movie companies simply not making the cut anymore?
 <br>
