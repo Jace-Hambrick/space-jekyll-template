@@ -21,14 +21,14 @@ So let's keep that Question nice and close:
 Using a <a href="https://www.kaggle.com/danielgrijalvas/movies/data">Dataset</a> pulled from Kaggle, I took a deeper look at the Question. Ironically, the creator of said dataset made it for simallar reasons. I started by importing the dataset and taking a good look at what was contained, specifically at what I would need in order to find my Answer.
 
 
-<img src="https://i.imgur.com/wXJmpTL.png" alt="dataset">
+<img src="https://i.imgur.com/rTHZ9cY.png" alt="dataset">
 <p>Contains the columns <q><i>Budget, Company, Country,	Director, Genre, Gross Name, Rating, Released, Runtime, Score, Star, Votes, Writer, and Year</i></q></p>
 <br>
 <br>
 After sifting through the data it became apparent that it was pretty useable with only a few tweaks. To start I had to fix a rather simple problem that would affect my data at a later time. Inside the dataset there were two duplicate companies but with different names, <i>Columbia Pictures Corporation</i> and <i>Columbia Pictures</i>. After that I needed to slim down the dataset to have only what I needed to find my Answer.
 
 
-<img src="https://i.imgur.com/tS0uitC.png" alt="slim_set">
+<img src="https://i.imgur.com/wXJmpTL.png" alt="slim_set">
 
 
 With this new information I can get closer to the Answer, but with so many companies I would need to slim it down a bit more. After running a value count on company names it was easy to see which companies had been the most active. No suprise, I recognized all of them by name. The next step was to make a small <i>for</i> loop that pulled each individual year used in the data and assign it to <i>i</i> to use at a later date.
