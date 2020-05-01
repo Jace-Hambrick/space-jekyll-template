@@ -2,7 +2,7 @@
 layout: post
 title: Have movies gone downhill?
 tags:
-- mongodb
+- project, lambda, movie, movies
 description: ''
 categories:
 - Λ Lambda Projects
