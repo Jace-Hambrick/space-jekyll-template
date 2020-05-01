@@ -58,8 +58,8 @@ links:
 
 # projects in header index
 projects:
-  - name: Movies Notebook
-    url: https://github.com/Jace-Hambrick/projects/Movies.ipynb
+  - name: Movies Notebook & Data
+    url: https://github.com/Jace-Hambrick/projects/tree/master/Movie%20Project
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
