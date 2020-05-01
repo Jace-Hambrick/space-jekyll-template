@@ -64,8 +64,6 @@ Taking a crosstab, or comparing two seperate columns of the dataset against each
 <div class="row">
   <div class="column">
     <img src="https://i.imgur.com/XMJibY9.png" alt="Average Movies Bar" style="width:25%">
-  </div>
-  <div class="column">
     <img src="https://i.imgur.com/j7un6Xk.png" alt="Average Movies Line" syle="width:25%">
   </div>
 </div
