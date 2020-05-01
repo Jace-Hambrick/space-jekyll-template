@@ -59,8 +59,15 @@ The result is rather conclusive. The top 3 movie companies have gotten more cons
 
 Well we can now say that no, they have not gotten worse, at least not for the top movie studios. But that doesn't really answer my question. So the next thing to look at is every company, and to do so I look back at the Graph_Data dataset. Everything I need is here but I not exclusive from the rest of the data. To fix this I need to make another funtion, this time to find out the average ratings of every movie provided, by the year it was released.
 
-Taking a crosstab, or comparing two seperate columns of the dataset against eachother, of the Scores and Years. Using this new dataset I was able to look at the average ratings of every year. And the result was rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies.
+Taking a crosstab, or comparing two seperate columns of the dataset against eachother, of the Scores and Years. Using this new dataset I was able to look at the average ratings of every year. And the result was rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies as seen in the two charts below.
 
-<img src="https://i.imgur.com/XMJibY9.png" alt="Average Movies Bar">
+<div class="row">
+  <div class="column">
+    <img src="https://i.imgur.com/XMJibY9.png" alt="Average Movies Bar" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://i.imgur.com/j7un6Xk.png" alt="Average Movies Line" syle="width:100%">
+  </div>
+</div
 
 
