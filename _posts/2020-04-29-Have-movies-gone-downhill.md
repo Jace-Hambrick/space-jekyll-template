@@ -62,7 +62,6 @@ Well we can now say that no, they have not gotten worse, at least not for the to
 Taking a crosstab, or comparing two seperate columns of the dataset against eachother, of the Scores and Years. Using this new dataset I was able to look at the average ratings of every year. And the result was rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies as seen in the two charts below.
 
 
-<img class="left" img src="https://i.imgur.com/XMJibY9.png" alt="Average Movies Bar" style="width:25%"></img>
-<img class="right" img src="https://i.imgur.com/j7un6Xk.png" alt="Average Movies Line" syle="width:25%"></img>
+<img src="https://i.imgur.com/qjppwf9.png" alt="Average Movies Bar">
 
 
