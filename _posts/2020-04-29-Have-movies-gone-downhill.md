@@ -64,8 +64,14 @@ Taking a crosstab, or comparing two seperate columns of the dataset against each
 
 <img src="https://i.imgur.com/69k3YW4.png" alt="Average Movies Bar">
 
-Well that answers the Question. But <b>who</b> is making the better movies, and what movies <i>are</i> the better movies. Another question for us to answer, and a rather simple one at that. With a quick bit of exploring I was able to put together a new chart for your enjoyment. Thank you for reading!
+Well that answers the Question. But <b>who</b> is making the better movies, and what movies <i>are</i> the better movies. Another question for us to answer, and a rather simple one at that. With a quick bit of exploring I was able to put together a new chart for your enjoyment.
 
 <div>
 <iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig2.html" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<br>
+<br>
+
+Thank you for reading along!
+If you were interested in seeing how this was accomplished please check out my Projects tab!
