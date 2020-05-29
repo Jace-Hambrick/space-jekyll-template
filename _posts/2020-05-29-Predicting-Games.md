@@ -40,14 +40,16 @@ I decided that the best way to go about solving my problem was with a classifica
 
 Next was to fit my data to a Random Forest Classifier and see if I couldn't tune my model to get a higher accuracy. After a bit of fiddling with my classifiers settings I settled for <i>n_estimators=100, random_state=42, n_jobs=-1</i> and ran it to see what I would get. My Validation Accuracy as now 0.8029547553093259, a sizeable improvement.
 
-I wanted to see what the features that held the most importance in the model were as well, as that information could help me fine tune my variables. However even after changing them and finding my hyperparameters. I was still stuck with a score that barely flucuated from my 0.80295.
-
 <img src="https://i.imgur.com/CC7RE5N.png">
 
 
-Finally to make sure that I was reaching the highest score that I could I experiemented with feature testing, seeing what my score would be with, and without specific columns. However every column seemed to carry some importance to the 
+Finally to make sure that I was reaching the highest score that I could I experiemented with feature testing, seeing what my score would be with, and without specific columns. However every column seemed to carry some importance to the model and I kept it the way it was. To try and see if there was a different way to improve my model I ran it through an XGboost, but kept my previous model as my final.
 
+<img src="https://i.imgur.com/kubsInh.png">
 
+And lastly, I wanted to see which features held the most importance in the model, as well as see how my accuracy changed with those features removed as that information could could be knowledgeable later on. However even after changing them, I was still stuck with a score that barely flucuated from my 0.80295.
+
+<img src="https://i.imgur.com/CC7RE5N.png">
 
 Thank you for reading along!
 If you were interested in seeing how this was accomplished please check out my Projects tab!
