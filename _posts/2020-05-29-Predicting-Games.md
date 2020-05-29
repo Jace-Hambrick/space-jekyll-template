@@ -17,12 +17,6 @@ Using a <a href="https://www.kaggle.com/tamber/steam-video-games">Dataset</a> pu
 <img src="https://i.imgur.com/32lozNA.png">
 
 
-I wanted to see if I could accurately predict how many owners each game had. The following graph shows what the mean (blue) and median (red) are for the dataset, with mean being 184,360. And after calculating the MAE (mean absolute error) I learned that if we just guessed every game had 184,361 owners, we would be off by 266,700 on average. Keep in mind that far to the right there are a few games with around 10,000,000 owners.
-
-
-<img src="https://i.imgur.com/bBdwcpj.png">
-
-
 The next step was to clean the data by removing the columns with high cardinality and the 'name' column, which had a specific value for each row. Taking apart the columns with multiple tags in each was an issue of sperating the tags by the given delimiter (;) and turning them into features by assigning them to (1) if the feature was contained and (0) if it was not.
 
 Once this was all done I made a visualization based on games that had more than 50,000 positive ratings so that I could get a better idea of what I was working with.
@@ -33,6 +27,12 @@ Once this was all done I made a visualization based on games that had more than 
 <br>
 <br>
 <br>
+
+I wanted to see if I could accurately predict how many owners each game had. The following graph shows what the mean (blue) and median (red) are for the dataset, with mean being 184,360. And after calculating the MAE (mean absolute error) I learned that if we just guessed every game had 184,361 owners, we would be off by 266,700 on average. Keep in mind that far to the right there are a few games with around 10,000,000 owners.
+
+
+<img src="https://i.imgur.com/bBdwcpj.png">
+
 
 <img src="https://i.imgur.com/5eh6sP0.png" alt="top10graph">
 
