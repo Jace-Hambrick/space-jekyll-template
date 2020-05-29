@@ -38,6 +38,16 @@ I wanted to see if I could accurately predict how many owners each game had. The
 
 I decided that the best way to go about solving my problem was with a classification method. So I fit the data to a Linear Regression model to start and see what my Validation Score would be with no feature selection. My model returned a score of 0.6876958141426244. Not the greatest score, but a good starting point.
 
+Next was to fit my data to a Random Forest Classifier and see if I couldn't tune my model to get a higher accuracy. After a bit of fiddling with my classifiers settings I settled for <i>n_estimators=100, random_state=42, n_jobs=-1</i> and ran it to see what I would get. My Validation Accuracy as now 0.8029547553093259, a sizeable improvement.
+
+I wanted to see what the features that held the most importance in the model were as well, as that information could help me fine tune my variables. However even after changing them and finding my hyperparameters. I was still stuck with a score that barely flucuated from my 0.80295.
+
+<img src="https://i.imgur.com/CC7RE5N.png">
+
+
+Finally to make sure that I was reaching the highest score that I could I experiemented with feature testing, seeing what my score would be with, and without specific columns. However every column seemed to carry some importance to the 
+
+
 
 Thank you for reading along!
 If you were interested in seeing how this was accomplished please check out my Projects tab!
