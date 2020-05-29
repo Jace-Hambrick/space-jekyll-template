@@ -58,10 +58,10 @@ links:
 
 # projects in header index
 projects:
-  - name: Movies Notebook & Data
-    url: https://github.com/Jace-Hambrick/projects/tree/master/Movie%20Project
   - name: Steam Games Notebook & Data
     url: https://github.com/Jace-Hambrick/projects/tree/master/steam%20games
-
+  - name: Movies Notebook & Data
+    url: https://github.com/Jace-Hambrick/projects/tree/master/Movie%20Project
+    
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
