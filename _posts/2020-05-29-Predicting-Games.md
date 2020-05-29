@@ -25,7 +25,7 @@ The next step was to clean the data by removing the columns with high cardinalit
 Once this was all done I made a visualization based on games that had more than 50,000 positive ratings so that I could get a better idea of what I was working with.
 
 <div>
-<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/numberofowners.html" frameborder="0" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/numberofownerstest.html" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 <br>
