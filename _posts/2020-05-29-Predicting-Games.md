@@ -9,9 +9,12 @@ categories:
 ---
 
 <img src="https://i.imgur.com/5YBERI3.jpg">
+<br>
+<br>
+<b>I am a gamer, as are most of us.</b> So for my project I decided to try and see if I could accurately predict how many people owned a specific game.
 
-I am a gamer, as are most of us. So for my project I decided to try and see if I could accurately predict how many people owned a specific game.
-Using a <a href="https://www.kaggle.com/tamber/steam-video-games">Dataset</a> pulled from Kaggle, I explored the data and slowly figured out what it was I would be looking for. But first I needed to clean up the data. The main issues being (1) the column for Owners being a string instead of integer, (2) the NaNs floating throughout the data, (3) a number of columns that had been set with a delimiter which blurred the data, and (4) columns with to much Cardinality and No Variation.
+
+Using a <a href="https://www.kaggle.com/tamber/steam-video-games">Dataset</a> pulled from Kaggle, I explored the data and slowly figured out what it was I would be looking for. But first the data needed to be cleaned. The main issues being (1) the column for Owners being a string instead of integer, (2) the NaNs floating throughout the data, (3) a number of columns that had been set with a delimiter which blurred the data, and (4) columns with to much Cardinality and No Variation.
 
 
 <img src="https://i.imgur.com/32lozNA.png">
