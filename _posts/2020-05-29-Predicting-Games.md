@@ -36,29 +36,8 @@ I wanted to see if I could accurately predict how many owners each game had. The
 
 <img src="https://i.imgur.com/bBdwcpj.png">
 
+I decided that the best way to go about solving my problem was with a classification method. So I fit the data to a Linear Regression model to start and see what my Validation Score would be with no feature selection. My model returned a score of 0.6876958141426244. Not the greatest score, but a good starting point.
 
-<img src="https://i.imgur.com/5eh6sP0.png" alt="top10graph">
-
-The result is rather conclusive. The top 3 movie companies have gotten more consistent, but are still stuck at just about 6. So let's look at our question.
-
-<b>Have Movies Gotten Worse In Recent Years?</b>
-
-
-Well we can now say that no, they have not gotten worse, at least not for the top movie studios. But that doesn't really answer my question. So the next thing to look at is every company, and to do so I look back at the Graph_Data dataset. Everything I need is here but I not exclusive from the rest of the data. To fix this I need to make another funtion, this time to find out the average ratings of every movie provided, by the year it was released.
-
-Taking a crosstab, or comparing two seperate columns of the dataset against eachother, of the Scores and Years. Using this new dataset I was able to look at the average ratings of every year. And the result was rather interesting. Over a span of thirty years (1986-2016) there was about a .5 rise in the average rating of movies as seen in the two charts below.
-
-
-<img src="https://i.imgur.com/69k3YW4.png" alt="Average Movies Bar">
-
-Well that answers the Question. But <b>who</b> is making the better movies, and what movies <i>are</i> the better movies. Another question for us to answer, and a rather simple one at that. With a quick bit of exploring I was able to put together a new chart for your enjoyment.
-
-<div>
-<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig2.html" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<br>
-<br>
 
 Thank you for reading along!
 If you were interested in seeing how this was accomplished please check out my Projects tab!
