@@ -44,7 +44,8 @@ And then I graphed it for your viewing pleasure.
 <b>Warning:</b><i> The following graph may incite madness in mathmaticians.</i>
 
 <div>
-<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" frameborder="0" allowfullscreen></iframe>
+<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/plotfig.html" frameborder="0" allowfullscreen>
+  </iframe>
 </div>
 
 
