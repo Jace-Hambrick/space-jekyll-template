@@ -11,7 +11,8 @@ categories:
 <img src="https://i.imgur.com/jYHNXAa.png">
 <br>
 <br>
-<b>Who and What?
+<b>Who and What?</b>
+
 <br>
 
 This past month I have been working with the Human Rights First, a 501(c)3 organization to develop an application that uses optical character recognition to scan input court decisions for important values and inserts them into a database. The application is to assist immigration attorneys and refugee representatives in advocating for clients in asylum cases by identifying patterns in judicial decisions, and by predicting possible outcomes.
