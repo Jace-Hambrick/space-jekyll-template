@@ -57,6 +57,7 @@ In the end my contribution was a massive jumpstart on visualizations. CSV files 
 <img src="https://i.imgur.com/kU7d1q9.png">
 Now at the end of a full month, me and my team have pushed forward and together with the Front and Back End teams we have added a number of features.
 
+
 <ul>
 <li>Aligned our endpoints to throughout the three teams code bases.</li>
 <li>Further refined the dockerfile for AWS Elastic Beanstalk</li>
