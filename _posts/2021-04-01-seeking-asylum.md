@@ -36,6 +36,7 @@ Having ensured the data was ethical, I then transformed the given data into some
 <iframe style=”display: block; margin: auto;” height=”600” width=”800” src=”https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html“ frameborder=”0” allowfullscreen></iframe>
 </div>
 
+<iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;" title="Choropleth Map"></iframe>
 
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
 
@@ -86,6 +87,3 @@ A month later and looking back on it, I could have done better, and it always hu
 
 I’m looking forward to seeing what the future offers me now. Having completed this project and refined my skills more, the future looks brighter. My visualizations and coding expertise will only continue to grow from here on out.
 
-<div>
-<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/numberofownerstest.html" frameborder="0" allowfullscreen></iframe>
-</div>
