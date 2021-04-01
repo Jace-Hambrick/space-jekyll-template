@@ -7,10 +7,10 @@ description: 'Project for Human Rights First'
 categories:
 - Λ Lambda Projects
 ---
-
+<body>
 <img src="https://i.imgur.com/jYHNXAa.png">
 </br>
-<h1>Who and What?</h1>
+<h2>Who and What?</h2>
 </br>
 </br>
 This past month I have been working with the Human Rights First, a 501(c)3 organization to develop an application that uses optical character recognition to scan input court decisions for important values and inserts them into a database. The application is to assist immigration attorneys and refugee representatives in advocating for clients in asylum cases by identifying patterns in judicial decisions, and by predicting possible outcomes.
@@ -67,3 +67,4 @@ A month later and looking back on it, I could have done better, and it always hu
 </br>
 </br>
 I’m looking forward to seeing what the future offers me now. Having completed this project and refined my skills more, the future looks brighter. My visualizations and coding expertise will only continue to grow from here on out.
+</body>
