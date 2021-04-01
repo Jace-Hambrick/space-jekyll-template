@@ -11,11 +11,11 @@ categories:
 <img src="https://i.imgur.com/jYHNXAa.png">
 </br>
 <h2>Who and What?</h2>
-</br>
-</br>
+
+
 This past month I have been working with the Human Rights First, a 501(c)3 organization to develop an application that uses optical character recognition to scan input court decisions for important values and inserts them into a database. The application is to assist immigration attorneys and refugee representatives in advocating for clients in asylum cases by identifying patterns in judicial decisions, and by predicting possible outcomes.
-</br>
-</br>
+
+
 Going into this project I was afraid that I wouldn’t be of much use to the team and the company. I wasn’t very confident in my abilities, and felt woefully unprepared for what I faced. I could only hope that I would be able to rise to the occasion and create something wonderful.
 
 <h2>Contributing to the Cause</h2>
@@ -31,13 +31,17 @@ My solution was to make a visual that had a baseline that wouldn’t change, and
 Having ensured the data was ethical, I then transformed the given data into something more useful and created two world maps. One, a choropleth map, took a look at all the countries that had asylum seekers and displayed their protected grounds.
 </br>
 </br>
+<div>
 <iframe style=”display: block; margin: auto;” height=”600” width=”800” src=”https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html“ frameborder=”0” allowfullscreen></iframe>
+ </div>
 </br>
 </br>
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
 </br>
 </br>
+<div>
 <iframe style=”display: block; margin: auto;” height=”600” width=”800” src=”https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_scatter.html“ frameborder=”0” allowfullscreen></iframe>
+ </div>
 </br>
 </br>
 My goal was more or less to provide a skeleton for the rest of the team, so that they would have a starting point for any visuals they needed to create, as well as for anyone who worked on it in the future. To ensure that this was possible, I maintained a documentation file in the background, containing the basics on everything I had created. Knowing full well that at a later point it could be that my visuals were scrapped in favor of a different one, I found it prudent to provide links to numerous different python graphing programs and a few that specifically worked with those programs to draw world maps.
