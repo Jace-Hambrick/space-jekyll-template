@@ -18,7 +18,7 @@ This past month I have been working with the Human Rights First, a 501(c)3 organ
 </br>
 Going into this project I was afraid that I wouldn’t be of much use to the team and the company. I wasn’t very confident in my abilities, and felt woefully unprepared for what I faced. I could only hope that I would be able to rise to the occasion and create something wonderful.
 
-<h1>Contributing to the Cause</h1>
+<h2>Contributing to the Cause</h2>
 
 Two weeks into the project, over my fears and smashing through hurdles, I had made significant progress on my addition to the cause.
  Due to the nature of the project the first thing I had done was take an in-depth look at data ethics, something I, and the rest of the team, was rather unfamiliar with. I devoted almost a full day towards this, as this would have a big impact on the stakeholders. Afterwards I researched my topic, looking at various other sites that visualized court data.
@@ -46,7 +46,9 @@ My goal was more or less to provide a skeleton for the rest of the team, so that
 In the end my contribution was a massive jumpstart on visualizations. CSV files containing data were ready to go. Two different styles of scalable visuals that would grow with the data, and documentation to help anyone wanting to adjust or continue my work.
 </br>
 </br>
-<h1>Passing on the Torch</h1>
+
+<h2>Passing on the Torch</h2>
+
 <img src="https://i.imgur.com/kU7d1q9.png">
 Now at the end of a full month, me and my team have pushed forward and together with the Front and Back End teams we have added a number of features.
 </br>
