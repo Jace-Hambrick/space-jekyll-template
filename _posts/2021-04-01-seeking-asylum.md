@@ -58,6 +58,8 @@ In the end my contribution was a massive jumpstart on visualizations. CSV files 
 <center><i>The login site for FE's website</i></center>
 
 
+
+
 Now at the end of a full month, me and my team have pushed forward and together with the Front and Back End teams we have added a number of features.
 
 
@@ -71,6 +73,9 @@ Now at the end of a full month, me and my team have pushed forward and together 
 
 <img src="https://i.imgur.com/ZKDmPg1.png">
 <center><i>A local Docker deployment of the Application</i></center>
+
+
+
 
 
 Future features will most likely include many more visualizations, more fields added to the data, a number of new search features on the website, improved scrappers, and a revamped website allowing for detailed viewing of information and data. Though the process of getting all of this done will be a challenge for the next team. As the data grows, creating visualization is going to get more challenging and harder to maintain, in conjunction with applying data ethics it will be no easy task. As for the rest, making sure that proper documentation is in the records, and that it seamlessly merges with the existing code bases should allow for future teams to move forward with ease. The only real technical problem that occurs to me is how to increase the efficiency of the scrapper, which at this point has some troubles with the court documents.
