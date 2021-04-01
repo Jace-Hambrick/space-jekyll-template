@@ -38,7 +38,7 @@ Having ensured the data was ethical, I then transformed the given data into some
 <iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:600;width:800" title="Choropleth Map"></iframe>
 </div>
 
-<p align="center"><iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:600;width:800" title="Choropleth Map"></iframe></p>
+<p align="center"><iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:900;width:1200" title="Choropleth Map"></iframe></p>
 
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
 
