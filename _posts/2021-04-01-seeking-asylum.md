@@ -69,7 +69,7 @@ Now at the end of a full month, me and my team have pushed forward and together 
 <li>Various visualizations awaiting Front End implementation.</li>
 </ul>
 
-<img src="https://imgur.com/a/isTCNaD">
+<img src="https://i.imgur.com/ZKDmPg1.png">
 <center><i>A local Docker deployment of the Application</i></center>
 
 
