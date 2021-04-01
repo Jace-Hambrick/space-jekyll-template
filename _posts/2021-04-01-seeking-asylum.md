@@ -32,8 +32,10 @@ My solution was to make a visual that had a baseline that wouldn’t change, and
 Having ensured the data was ethical, I then transformed the given data into something more useful and created two world maps. One, a choropleth map, took a look at all the countries that had asylum seekers and displayed their protected grounds.
 
 
-<div>
+
 <iframe style=”display: block; margin: auto;” height=”600” width=”800” src=”https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html“ frameborder=”0” allowfullscreen></iframe>
+<div>
+<iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:600;width:800" title="Choropleth Map"></iframe>
 </div>
 
 <iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:600;width:800" title="Choropleth Map"></iframe>
