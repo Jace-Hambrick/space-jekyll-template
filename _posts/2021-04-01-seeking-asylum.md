@@ -55,6 +55,9 @@ In the end my contribution was a massive jumpstart on visualizations. CSV files 
 
 
 <img src="https://i.imgur.com/kU7d1q9.png">
+<center><i>The login site for FE's website</i></center>
+
+
 Now at the end of a full month, me and my team have pushed forward and together with the Front and Back End teams we have added a number of features.
 
 
@@ -66,6 +69,9 @@ Now at the end of a full month, me and my team have pushed forward and together 
 <li>Various visualizations awaiting Front End implementation.</li>
 </ul>
 
+<img src="https://imgur.com/a/isTCNaD">
+<center><i>A local Docker deployment of the Application</i></center>
+
 
 Future features will most likely include many more visualizations, more fields added to the data, a number of new search features on the website, improved scrappers, and a revamped website allowing for detailed viewing of information and data. Though the process of getting all of this done will be a challenge for the next team. As the data grows, creating visualization is going to get more challenging and harder to maintain, in conjunction with applying data ethics it will be no easy task. As for the rest, making sure that proper documentation is in the records, and that it seamlessly merges with the existing code bases should allow for future teams to move forward with ease. The only real technical problem that occurs to me is how to increase the efficiency of the scrapper, which at this point has some troubles with the court documents.
 
@@ -75,3 +81,6 @@ A month later and looking back on it, I could have done better, and it always hu
 
 I’m looking forward to seeing what the future offers me now. Having completed this project and refined my skills more, the future looks brighter. My visualizations and coding expertise will only continue to grow from here on out.
 
+<div>
+<iframe style="display: block; margin: auto;" height="600" width="800" src="https://jace-hambrick.github.io/space-jekyll-template/assets/numberofownerstest.html" frameborder="0" allowfullscreen></iframe>
+</div>
