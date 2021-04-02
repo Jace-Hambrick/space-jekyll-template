@@ -72,7 +72,7 @@ Now at the end of a full month, me and my team have pushed forward and together 
 <p align="center" style="font-size:11px"><img src="https://i.imgur.com/ZKDmPg1.png">
 <i>Docker deployment code</i></p>
 
-<p align="center" style="font-size:11px"><img src="https://github.com/Jace-Hambrick/space-jekyll-template/blob/master/assets/DockerDeployed.gif" />
+<p align="center" style="font-size:11px"><img src="https://s4.gifyu.com/images/DockerDeployed-3.gif" />
 <i>Local deployment of the Docker application</i></p>
 
 <p align="center" style="font-size:11px"><img src="https://i.imgur.com/nR8EmMJ.png">
