@@ -32,13 +32,13 @@ My solution was to make a visual that had a baseline that wouldn’t change, and
 Having ensured the data was ethical, I then transformed the given data into something more useful and created two world maps. One, a choropleth map, took a look at all the countries that had asylum seekers and displayed their protected grounds.
 
 
-<p align="center"><iframe width="1200" height="900" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" title="Choropleth Map"></iframe></p>
+<p align="center"><iframe width="1200" height="600" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" title="Choropleth Map"></iframe></p>
 
 
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
 
 
-<p align="center"><iframe width="1200" height="900" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_scatter.html" title="Choropleth Map"></iframe></p>
+<p align="center"><iframe width="1200" height="600" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_scatter.html" title="Choropleth Map"></iframe></p>
 
 
 My goal was more or less to provide a skeleton for the rest of the team, so that they would have a starting point for any visuals they needed to create, as well as for anyone who worked on it in the future. To ensure that this was possible, I maintained a documentation file in the background, containing the basics on everything I had created. Knowing full well that at a later point it could be that my visuals were scrapped in favor of a different one, I found it prudent to provide links to numerous different python graphing programs and a few that specifically worked with those programs to draw world maps.
