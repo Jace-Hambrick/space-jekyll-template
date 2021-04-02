@@ -73,7 +73,7 @@ Now at the end of a full month, me and my team have pushed forward and together 
 <i>Docker deployment code</i></p>
 
 <p align="center" style="font-size:11px"><img src="https://github.com/Jace-Hambrick/space-jekyll-template/blob/master/assets/DockerDeployed.gif?raw=true" />
-<i>Local deployment of the Docker application</i></p>
+<i>Local deployment of the Docker API application</i></p>
 
 <p align="center" style="font-size:11px"><img src="https://i.imgur.com/nR8EmMJ.png">
 <i>Front Ends advanced search application</i></p>
