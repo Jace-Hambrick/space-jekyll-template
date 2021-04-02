@@ -52,8 +52,9 @@ In the end my contribution was a massive jumpstart on visualizations. CSV files 
 <h2>Passing on the Torch</h2>
 
 
-<img src="https://i.imgur.com/kU7d1q9.png">
-<center><i>The login site for FE's website</i></center>
+<p align="center" style="font-size:11px"><img src="https://i.imgur.com/kU7d1q9.png" />
+<i>The login site for FE's website</i></p>
+
 
 
 
