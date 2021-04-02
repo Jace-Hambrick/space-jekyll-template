@@ -32,14 +32,14 @@ My solution was to make a visual that had a baseline that wouldn’t change, and
 Having ensured the data was ethical, I then transformed the given data into something more useful and created two world maps. One, a choropleth map, took a look at all the countries that had asylum seekers and displayed their protected grounds.
 
 
-<p align="center" style="font-size:7px"><iframe width="1200" height="350" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" title="Choropleth Map"></iframe>
+<p align="center" style="font-size:9px"><iframe width="1200" height="350" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" title="Choropleth Map"></iframe>
  <i>Choropleth Map showing country colored by Protected Grounds.</i></p>
 
 
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
 
 
-<p align="center" style="font-size:7px"><iframe width="1200" height="350" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_scatter.html" title="Choropleth Map"></iframe>
+<p align="center" style="font-size:9px"><iframe width="1200" height="350" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_scatter.html" title="Choropleth Map"></iframe>
  <i>Scatterplot Map showing individual cases.</i></p>
 
 
@@ -69,11 +69,11 @@ Now at the end of a full month, me and my team have pushed forward and together 
 <li>Various visualizations awaiting Front End implementation.</li>
 </ul>
 
-<img src="https://i.imgur.com/ZKDmPg1.png">
-<center><i>Docker deployment code</i></center>
+<p align="center" style="font-size:9px"><img src="https://i.imgur.com/ZKDmPg1.png">
+<i>Docker deployment code</i></p>
 
-<img src="https://github.com/Jace-Hambrick/space-jekyll-template/blob/master/assets/DockerDeployed.gif">
-<center><i>Local deployment of the Docker application</i></center>
+<p align="center" style="font-size:9px"><img src="https://github.com/Jace-Hambrick/space-jekyll-template/blob/master/assets/DockerDeployed.gif">
+<i>Local deployment of the Docker application</i></p>
 
 
 
