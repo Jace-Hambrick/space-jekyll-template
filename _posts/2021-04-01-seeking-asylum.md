@@ -32,7 +32,7 @@ My solution was to make a visual that had a baseline that wouldn’t change, and
 Having ensured the data was ethical, I then transformed the given data into something more useful and created two world maps. One, a choropleth map, took a look at all the countries that had asylum seekers and displayed their protected grounds.
 
 
-<p align="center"><iframe src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" style="border:none;height:900;width:1200" title="Choropleth Map"></iframe></p>
+<p align="center"><iframe width="1200" height="900" src="https://jace-hambrick.github.io/space-jekyll-template/assets/asylum_choropleth.html" title="Choropleth Map"></iframe></p>
 
 
 The other world map was a scatterplot map that showed more in depth information. It plotted each case so far by its country of origin and allowed a user to hover over the dot in order to read more about the case. Though the issue with dots overlapping has yet to be fixed.
