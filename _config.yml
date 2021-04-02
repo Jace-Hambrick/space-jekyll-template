@@ -15,7 +15,7 @@ linkedin_public_url: www.linkedin.com/in/hambrick-jace/ # Example: For public pr
 #disqus_username: loremipsum
 profile_picture: https://i.imgur.com/kud13W2.png
 # Build settings
-markdown: GFM
+markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 
